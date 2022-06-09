@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="python.final.leqcia_1_savarjisho.balance_correct" />
+          <option value="object.booking" />
+          <option value="flask_blog_youtube.blog.flask_login" />
+          <option value="flask_blog_youtube.blog.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
